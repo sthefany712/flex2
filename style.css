@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.roxo {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(199, 155, 244);
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+    gap: 10px;
+}
+
+.roxo div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(121, 38, 144);
+    border-radius: 50%;
+}
+
+.verde {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(149, 217, 175);
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    gap: 10px;
+}
+
+.verde div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(23, 103, 35);
+    border-radius: 50%;
+}
+
+.vermelho {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(217, 160, 149);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.vermelho div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(103, 28, 23);
+    border-radius: 50%;
+}
+
+.amarelo {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(210, 201, 77);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.amarelo div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(246, 215, 39);
+    border-radius: 50%;
+}
+
+.azul {
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(117, 197, 226);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 400px;
+}
+
+.azul div {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(19, 147, 238);
+    border-radius: 50%;
+}
